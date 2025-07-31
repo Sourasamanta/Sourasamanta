@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>Sourajit Samanta</b> and I'm a <i>2nd Year Student</i>, from <b>KIIT UNIVERSITY</b></p>
+<p align="left">My name is <b>Sourajit Samanta</b> and I'm a <i>3rd Year Student</i>, from <b>KIIT UNIVERSITY</b></p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java, Javascript, MySQL</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java, Javascript, MySQL, Kotlin</p>
 
 ###
 
